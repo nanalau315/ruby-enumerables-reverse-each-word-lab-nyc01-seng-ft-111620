@@ -16,7 +16,7 @@ def reverse_each_word(string)
   
   
   arr.collect do |word|
-    puts word.reverse
+    word.reverse
     
     end
   
